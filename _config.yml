@@ -30,7 +30,7 @@ github_username:  xodwkx2
 
 # Build settings
 # theme: minima
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
