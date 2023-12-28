@@ -5,6 +5,7 @@ date:   2023-12-23 00:00:00 +0900
 categories: blog
 ---
 # 1. 개요
+
 [공식 사이트](https://docs.rke2.io/install/quickstart)
 
 Ubuntu 20.04를 기준으로 RKE2 설치를 통해 Kubernetes cluster를 provisioning하여 lab을 구성하는 과정을 설명한다.
